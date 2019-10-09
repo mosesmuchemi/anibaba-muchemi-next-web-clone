@@ -714,7 +714,7 @@ figure {
     height: 100%;
     width: 100%;
   }
-  
+
   .section-flex {
     background-color: #fff0f5;
     display: flex;
@@ -728,19 +728,23 @@ figure {
   header {
     margin-bottom: 0;
   }
+
   .top-list,
   .back-color,
   .back-logo {
     display: none;
   }
+
   .second-list {
     height: 72px;
   }
+
   #nav-container {
     display: grid;
     grid-template-columns: 1fr 8fr;
     grid-template-rows: 50px;
   }
+
   #main-nav {
     background: #fff;
     border-bottom: 1px solid #eee;
@@ -751,15 +755,19 @@ figure {
     top: 0;
     width: 100%;
   }
+
   #logo-container {
     width: 100px;
   }
+
   ul.second-list {
     display: none;
   }
+
   #menu-icon {
     display: block;
   }
+
   .section-one {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -768,27 +776,32 @@ figure {
     height: 125vh;
     max-height: 200vh;
   }
+
   .left-img .back-color {
     width: 100%;
   }
+
   .left-img {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
     grid-row-end: 2;
   }
+
   .right-img-top {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 3;
   }
+
   .right-img-bottom {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 3;
     grid-row-end: 4;
   }
+
   .section-two,
   .latest-funding,
   .section-three,
@@ -797,6 +810,7 @@ figure {
     display: flex;
     flex-direction: column;
   }
+
   .col-1,
   .col-2,
   .col-3,
@@ -809,61 +823,74 @@ figure {
     flex-direction: row;
     position: relative;
   }
+
   figure {
     height: 80px;
     margin: 5px;
     width: 100px;
   }
+
   h6 {
     margin: 10px 0 0 0;
   }
+
   .section-two img,
   .section-five img {
     height: 100%;
     width: 100%;
   }
+
   .s3-2m {
     display: none;
   }
+
   .s3-links {
     display: flex;
     flex-direction: column;
     line-height: 30px;
   }
+
   .s3-links span {
     display: none;
   }
-  /* section four: */
+
   .sec4 {
     display: flex;
     flex-direction: column;
   }
+
   .sec4 h3,
   h4 {
     color: red;
   }
+
   .main-ul {
     list-style: none;
   }
+
   .main-ul li::before {
     content: "•";
     color: red;
     margin: 10px;
   }
+
   .main-ul li {
     border-bottom: 1px solid #555;
     line-height: 30px;
   }
+
   .main-fig {
     display: flex;
     height: 400px;
     margin: auto;
     width: 400px;
   }
+
   .main-img {
     height: 100%;
     width: 100%;
   }
+
   .section-flex {
     background-color: #fff0f5;
     display: flex;
@@ -871,6 +898,7 @@ figure {
     justify-content: space-around;
     margin-top: 10px;
   }
+  
   .footer-bottom ul {
     flex-direction: column;
   }

@@ -612,8 +612,7 @@ figure {
 }
 
 @media (max-width: 1023px) and (min-width: 768px) {
-    /* nav bar */
-  .scroll-nav {
+   .scroll-nav {
       display: grid;
       grid-template-columns: 1fr 8fr;
       grid-template-rows: 50px 50px;
@@ -633,7 +632,6 @@ figure {
       grid-row-start: 2;
       grid-row-end: 3;
     }
-   /* section one : */
     .section-one {
       grid-template-rows: auto;
       height: 61vh;
@@ -665,7 +663,6 @@ figure {
     .latest-funding {
       flex-direction: column;
     }
-    /* section four: */
     .sec4 {
       display: flex;
       flex-direction: column;
@@ -709,7 +706,6 @@ figure {
 }
 
 @media (max-width: 768px) {
-    /* nav bar: */
     header {
       margin-bottom: 0;
     }
@@ -856,7 +852,6 @@ figure {
       justify-content: space-around;
       margin-top: 10px;
     }
-    /* footer: */
     .footer-bottom ul {
       flex-direction: column;
     }

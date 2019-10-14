@@ -623,7 +623,8 @@ figure {
     height: 100%;
     background: linear-gradient(135deg, #cd0090, #f83d29);
     padding: 15px 15px 10px 15px;
-}
+  }
+  
   .scroll-nav {
     display: grid;
     grid-template-columns: 1fr 8fr;

@@ -31,6 +31,10 @@ header {
   width: 15%;
 }
 
+.logo-md {
+  display: none;
+}
+
 .sticky {
   position: fixed;
   top: 0;
@@ -612,6 +616,14 @@ figure {
 }
 
 @media (max-width: 1023px) and (min-width: 768px) {
+  .logo-md {
+    display: inline-block;
+    position: sticky;
+    width: 10%;
+    height: 100%;
+    background: linear-gradient(135deg, #cd0090, #f83d29);
+    padding: 15px 15px 10px 15px;
+}
   .scroll-nav {
     display: grid;
     grid-template-columns: 1fr 8fr;

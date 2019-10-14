@@ -8,7 +8,7 @@ This is the 5th collaborative project of the Main HTML/CSS curriculum at [Microv
 
 #### [Assignment Description Here](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-responsive-design)
 
-#### [Project Link](https://github.com/mosesmuchemi/anibaba-muchemi-next-web-clone)
+#### [Live Project Link](https://mosesmuchemi.github.io/anibaba-muchemi-next-web-clone/)
 
 #### Authors
 
